@@ -19,6 +19,10 @@ This project is created during the **NLW Expert**, specifically the **React** co
 ![date-fns](https://img.shields.io/badge/date_fns-8c1b54?style=for-the-badge&logo=date-fns&logoColor=white)
 ![sonner](https://img.shields.io/badge/sonner-aa9add?style=for-the-badge&logo=react&logoColor=white)
 
+## 🆙 Improvements
+
+- [x] Show onboarding message on new note card if stopped recording with no text.
+
 ## 🌐 Try Live Version
 
 [![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nlw-expert-notes-beryl.vercel.app/)
