@@ -21,7 +21,8 @@ This project is created during the **NLW Expert**, specifically the **React** co
 
 ## 🆙 Improvements
 
-- [x] Show onboarding message on new note card if stopped recording with no text.
+- [x] Show onboarding message on new note card if recording is stopped with no text.
+- [x] Line breaker for long words on note card.
 
 ## 🌐 Try Live Version
 
